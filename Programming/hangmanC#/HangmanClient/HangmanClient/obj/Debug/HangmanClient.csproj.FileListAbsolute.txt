@@ -1,0 +1,16 @@
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe.config
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\bin\Debug\HangmanClient.pdb
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csprojResolveAssemblyReference.cache
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.Properties.Resources.resources
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.GenerateResource.Cache
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.exe
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.pdb
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\hangman_csharp.Form1.resources
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.Form1.resources
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csprojResolveAssemblyReference.cache
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.Form1.resources
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.csproj.GenerateResource.Cache
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.exe
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\obj\Debug\HangmanClient.pdb
+C:\Users\Arnar Steinþórsson\Downloads\Mi-annarverkefni\HangmanClient\HangmanClient\bin\Debug\HangmanClient.exe.config

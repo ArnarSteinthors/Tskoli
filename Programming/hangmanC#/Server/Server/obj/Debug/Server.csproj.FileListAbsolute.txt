@@ -1,0 +1,6 @@
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\bin\Debug\Server.exe.config
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\bin\Debug\Server.exe
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\bin\Debug\Server.pdb
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\obj\Debug\Server.exe
+C:\Users\aronh\Documents\GitHub\Mi-annarverkefni\Server\Server\obj\Debug\Server.pdb

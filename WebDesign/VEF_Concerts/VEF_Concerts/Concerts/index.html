@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tónleikar á Íslandi</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/thumbnail-gallery.css" rel="stylesheet">
+    <link href="image/favicon.ico" rel="icon" type="image/x-icon" />
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+</head>
+<body>
+<div id="preloader">
+    <div id="status">&nbsp;</div>
+</div>
+
+<div class="container">
+    <input type="text" id="filter-search" placeholder="Leita eftir atburðum...">
+    <div id="buttons">
+            <button class="active">Sýna Allt</button>
+            <button>Gamla Bío</button>
+        </div>
+    <div class="row">
+        <div class="main">
+        
+        </div>
+    </div>
+</div>
+<script>
+    (function() {                             // Lives in an IIFE
+  var $events = $('#main div');          // Get the images
+  var $search = $('#filter-search');      // Get the input element
+  var cache = [];                         // Create an array called cache
+
+  $events.each(function() {                 // For each image
+    cache.push({                          // Add an object to the cache array
+      element: this,                      // This image
+      text: this.alt.trim().toLowerCase() // Its alt text (lowercase trimmed)
+    });
+  });
+
+  function filter() {                     // Declare filter() function
+    var query = this.value.trim().toLowerCase();  // Get the query
+    cache.forEach(function(div) {         // For each entry in cache pass image 
+      var index = 0;                      // Set index to 0
+
+      if (query) {                        // If there is some query text
+        index = div.text.indexOf(query);  // Find if query text is in there
+      }
+
+      div.element.style.display = index === -1 ? 'none' : '';  // Show / hide
+    });
+  }
+
+  if ('oninput' in $search[0]) {          // If browser supports input event
+    $search.on('input', filter);          // Use input event to call filter()
+  } else {                                // Otherwise
+    $search.on('keyup', filter);          // Use keyup event to call filter()
+  }              
+
+}());
+</script>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/moment.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

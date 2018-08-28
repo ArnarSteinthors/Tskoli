@@ -1,0 +1,12 @@
+H:\GRU\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+H:\GRU\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe
+H:\GRU\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.pdb
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.AdalGuggi.resources
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Afslattur.resources
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Form1.resources
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resources.resources
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Voruleit.resources
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.exe
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.pdb
+H:\GRU\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csprojResolveAssemblyReference.cache

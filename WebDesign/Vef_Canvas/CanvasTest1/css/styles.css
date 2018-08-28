@@ -1,0 +1,14 @@
+body{
+	background: #eee;
+}
+#myCanvas{
+	background: #262626;
+	display: block;
+	margin: 0 auto;
+}
+#pictureCanvas{
+	margin: 0 auto;
+}
+img{
+	margin: 0 auto;
+}
